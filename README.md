@@ -1,1 +1,1 @@
-# Building-a-mouse-by-eyeball-movement-using machine learning 
+# Control cursor with eyeball movement 
